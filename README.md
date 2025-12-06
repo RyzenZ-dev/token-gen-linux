@@ -7,14 +7,38 @@
   <h3 align="center">Nexus Token Gen <a href="https://discord.gg/hM5VE7XDKr"></a></h3>
 
   <p align="center">
-    Pandez Bot Bypass - 2Captcha Solver
+    For Developers Only - Not Ready to use
     <br/>
     <br/>
-    <a href="https://discord.gg/nexustools">Nexus Discord</a>
-    <a href="https://www.requestcord.eu/">Requestcord</a>
+    <a href="https://discord.gg/hM5VE7XDKr">Discord Server</a>
   </p>
 </p>
 <br/>
 
+
 ## Screenshot
-![picture](pandez_showcase.png)
+![picture](/token-gen-screenshot.png)
+
+
+## Features 
+- **`Generating Discord Accounts`** - Browser Based Token Generation
+- **`Verifying Discord Accounts`** - Verifies Discord Accounts (Need to implement mail server)
+- **`Humanizing Discord Accounts`** - Humanizes Discord Tokens
+
+## Developers Only
+
+This project is not fully production-ready.
+You will need to integrate your own mail system before it can run properly.
+
+That said, the codebase is a solid blueprint for building your own generator or expanding the existing features.
+Feel free to fork, modify, and experiment however you like. 😊
+
+## Tech Stack
+- Python
+- Javascript
+
+## Contributers
+
+- **`cf-vatos`** - Head Developer
+- **`zkamo`** - Helped Developing (https://github.com/zkamo)
+
